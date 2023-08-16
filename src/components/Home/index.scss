@@ -1,5 +1,5 @@
 .home-page {
-  display: flex;
+ 
   
   .text-zone {
     position: absolute;
@@ -17,7 +17,7 @@
     font-weight: 400;
 
     .maki {
-      color: rgb(35, 10, 195);
+      color: rgb(228, 167, 33);
       font-weight: 550;
     }
   }
@@ -45,9 +45,48 @@
     white-space:nowrap;
 
     &:hover {
-      background-color: rgb(211, 211, 246);
+      background-color: rgb(236, 225, 197);
     }
   }
 }
+
+@media (max-width:1200px){
+  .home-page { 
+    display: flex;
+    flex-direction: column-reverse;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    box-sizing: border-box;
+
+    .text-zone{
+      position: initial;
+      width: 100%;
+      transform: none;
+      padding: 10px;
+      box-sizing: border-box;
+      margin-top: 0px;
+      top:0;
+      padding-top: 0;
+    }
+
+    .pic-container {
+      position: relative;
+      width: 100%;
+      max-width: 450px;
+      height: 100%;
+      top:110px;
+      right: 0;
+      left: 10px;
+      bottom: 0;
+      margin: 0;
+    }
+
+  }
+
+  
+}
+
 
 

@@ -11,25 +11,3 @@ const Pic = () => {
 
 export default Pic
 
-/**
- * .pic-container {
-  z-index: 0;
-  width:400px;
-  height: 609px;
-  position: absolute;
-  top:0;
-  right: 15%;
-  bottom:0;
-  left: auto;
-  margin: auto;
-
-  .solid-pic {
-    
-    top: auto;
-    right: auto;
-    bottom: auto;
-    left:0;
-    margin: auto;
-    width: 100%;
-  }
- */

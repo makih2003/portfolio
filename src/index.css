@@ -6,7 +6,7 @@ body {
   margin: 0;
   font: 300 11px/1.4 'Helvetica Neue', 'sans-serif';
   color: #292828;
-  background: rgb(221, 231, 243);
+  background-color:rgb(233, 243, 251) ;
   overflow: hidden;
   display: block;
   -webkit-font-smoothing: antialiased;
@@ -16,4 +16,11 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@media (max-width:1200px){
+  body{
+    overflow: visible;
+    overflow-x: hidden;
+  }
 }
