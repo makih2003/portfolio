@@ -7,8 +7,7 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 
 function App() {
-  const routerBaseName = process.env.PUBLIC_URL;
-
+  
   return (
     <HashRouter>
       <Routes>
