@@ -12,6 +12,7 @@ export const Project = ({ image, title, description, link, code, language }) => 
         <h3 className="project-title">{title}</h3>
         <p>Made with: <span className="language">{language}</span></p>
         <p className="projet-description">{description}</p>
+        <a href={link}><button className="flat-button">Link</button></a>
         <a href={code}><button className="flat-button">Source Code</button></a>
       </div>
     </div>
