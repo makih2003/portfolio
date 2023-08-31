@@ -1,14 +1,12 @@
-import './App.scss';
+import './App.scss'
 import { HashRouter, Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
-import Home from './components/Home';
-import About from './components/About';
-import Contact from './components/Contact';
-import Portfolio from './components/Portfolio';
+import Home from './components/Home'
+import About from './components/About'
+import Contact from './components/Contact'
+import Portfolio from './components/Portfolio'
 
 function App() {
-  const routerBaseName = process.env.PUBLIC_URL;
-
   return (
     <HashRouter>
       <Routes>
@@ -20,7 +18,7 @@ function App() {
         </Route>
       </Routes>
     </HashRouter>
-  );
+  )
 }
 
-export default App;
+export default App

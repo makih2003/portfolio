@@ -22,7 +22,7 @@ const About = () => {
               Bachelor of Science in Computing Science at{' '}
               <a href="https://www.sfu.ca/">Simon Fraser University</a>
             </span>
-            <br /> September 2023 - Summer 2026 (Expected)
+            <br /> September 2023 - August 2026 (Expected)
             <br />
             Burnaby, Canada
           </p>
@@ -33,7 +33,7 @@ const About = () => {
             </span>
             <span className="detail">
               <br />
-              Completed First Year, Earned 33 Credits
+              Completed First Year, Earned 40 Credits
               <br />
               GPA 4.00 / 4.33 & Dean's Honour Roll
             </span>

@@ -11,7 +11,7 @@ const Home = () => {
         </h1>
         <h2>A Computer Science Student at Simon Fraser University</h2>
         <h3>
-          Experienced in JavaScript / Java / C++ / ReactJS / HTML / CSS / Python
+          Experienced in JavaScript / Java / C++ / ReactJS / Python / HTML / CSS
         </h3>
         <Link to="/portfolio" className="flat-button">
           See My Work
