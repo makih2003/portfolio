@@ -1,8 +1,11 @@
 # Portfolio built with ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my portfolio website, which contains my projects, profile, and a contact form the user can directly contact me.
 
-## Available Scripts
+## Built with
+• ReactJS
+• NodeJS
+• SCSS
 
 In the project directory, you can run:
 
