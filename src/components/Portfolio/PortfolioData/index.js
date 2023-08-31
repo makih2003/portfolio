@@ -9,8 +9,8 @@ const portfolioData = [
     title: 'E-commerce Website',
     description:
       'Simulated e-commerce website where users can search, browse, add items to the cart, and order. On the cart page, the user can modify the number of items, delete items in the cart, and see the total cost including shipping fee and tax. After the order is placed, the user can check their order history on a separate page.',
-    link: 'https://makih2003.github.io/ecommerce-website/',
-    code: 'https://github.com/makih2003/ecommerce-website',
+    link: 'https://makih2003.github.io/ecommerce-web/',
+    code: 'https://github.com/makih2003/ecommerce-web',
     language: (
       <>
         <AiFillHtml5 className="language-icon" />
