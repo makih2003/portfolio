@@ -3,9 +3,9 @@
 This is my portfolio website, which contains my projects, profile, and a contact form the user can directly contact me.
 
 ## Built Using:
-• ReactJS\n
-• NodeJS
-• SCSS
+• ReactJS<br>
+• NodeJS<br>
+• SCSS<br>
 
 In the project directory, you can run:
 
