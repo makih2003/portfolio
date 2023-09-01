@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.29f078c3.css",
-    "main.js": "/portfolio/static/js/main.08cd2f86.js",
+    "main.js": "/portfolio/static/js/main.d10ef79a.js",
     "static/media/home-pic.png": "/portfolio/static/media/home-pic.67db332ee20e16037130.png",
     "static/media/e-commerce.png": "/portfolio/static/media/e-commerce.9a0b95eb9da86cb23150.png",
     "static/media/logo-maki.png": "/portfolio/static/media/logo-maki.8f9364a39abd04aacbb0.png",
@@ -10,10 +10,10 @@
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio/index.html",
     "main.29f078c3.css.map": "/portfolio/static/css/main.29f078c3.css.map",
-    "main.08cd2f86.js.map": "/portfolio/static/js/main.08cd2f86.js.map"
+    "main.d10ef79a.js.map": "/portfolio/static/js/main.d10ef79a.js.map"
   },
   "entrypoints": [
     "static/css/main.29f078c3.css",
-    "static/js/main.08cd2f86.js"
+    "static/js/main.d10ef79a.js"
   ]
 }
