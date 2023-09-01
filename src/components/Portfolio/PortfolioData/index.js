@@ -1,4 +1,5 @@
 import eCommerce from '../../../assets/images/e-commerce.png'
+import messenger from '../../../assets/images/messenger.png'
 import { AiFillHtml5 } from 'react-icons/ai'
 import { BiLogoCss3 } from 'react-icons/bi'
 import { BiLogoJavascript } from 'react-icons/bi'
@@ -20,7 +21,7 @@ const portfolioData = [
     ),
   },
   {
-    image: eCommerce,
+    image: messenger,
     title: 'Messenger JavaFX',
     description:
       'Messenger app built with JavaFX. In the first tab, user can signin, login, and logout. Username and password are required in order to signin and login. In the second tab, they can read messages they have received. There are two buttons, one to display unread messages and other to display all messages. In the third tab, they can send a message by typing it in or default smile message. ',
