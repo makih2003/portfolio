@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.29f078c3.css",
-    "main.js": "/portfolio/static/js/main.d10ef79a.js",
+    "main.js": "/portfolio/static/js/main.f296b441.js",
     "static/media/home-pic.png": "/portfolio/static/media/home-pic.67db332ee20e16037130.png",
     "static/media/e-commerce.png": "/portfolio/static/media/e-commerce.9a0b95eb9da86cb23150.png",
     "static/media/logo-maki.png": "/portfolio/static/media/logo-maki.8f9364a39abd04aacbb0.png",
+    "static/media/messenger.png": "/portfolio/static/media/messenger.e6f01ff8a821ca6b40db.png",
     "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio/index.html",
     "main.29f078c3.css.map": "/portfolio/static/css/main.29f078c3.css.map",
-    "main.d10ef79a.js.map": "/portfolio/static/js/main.d10ef79a.js.map"
+    "main.f296b441.js.map": "/portfolio/static/js/main.f296b441.js.map"
   },
   "entrypoints": [
     "static/css/main.29f078c3.css",
-    "static/js/main.d10ef79a.js"
+    "static/js/main.f296b441.js"
   ]
 }
