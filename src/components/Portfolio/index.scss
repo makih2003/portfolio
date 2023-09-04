@@ -7,7 +7,7 @@
   .portfolio-item {
     padding-right: 10%;
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 30px;
     opacity: 0;
     animation: fadeInUp 1.5s 2s;
@@ -35,7 +35,7 @@
   }
 
   .project-image {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
