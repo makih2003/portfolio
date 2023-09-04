@@ -1,8 +1,10 @@
 import eCommerce from '../../../assets/images/e-commerce.png'
 import messenger from '../../../assets/images/messenger.png'
+import polyCalculator from '../../../assets/images/polyCalculator.png'
 import { AiFillHtml5 } from 'react-icons/ai'
 import { BiLogoCss3 } from 'react-icons/bi'
 import { BiLogoJavascript } from 'react-icons/bi'
+import { BiLogoCPlusPlus } from 'react-icons/bi'
 
 const portfolioData = [
   {
@@ -29,6 +31,17 @@ const portfolioData = [
     language: (
       <>
         <em>JavaFX</em>
+      </>
+    ),
+  },
+  {
+    image: polyCalculator,
+    title: 'Polynomial Calculator',
+    description: 'coming soon',
+    code: 'https://github.com/makih2003/polynomial-calculator.git',
+    language: (
+      <>
+        <BiLogoCPlusPlus className="language-icon" />
       </>
     ),
   },
