@@ -7,6 +7,7 @@ import Contact from './components/Contact'
 import Portfolio from './components/Portfolio'
 
 function App() {
+
   return (
     <HashRouter>
       <Routes>
@@ -21,4 +22,6 @@ function App() {
   )
 }
 
-export default App
+
+export default App;
+
