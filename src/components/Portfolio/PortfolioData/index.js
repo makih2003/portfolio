@@ -6,19 +6,6 @@ import { AiFillHtml5 } from 'react-icons/ai'
 
 const portfolioData = [
   {
-    image: freshStart,
-    title: 'Fresh-Start',
-    description:
-      "A MERN app for users to anonymously share their goals and dreams. Users can share as many resolutions as they want and find inspiration from other's ideas. Every entry is saved into a database that is accessed with ExpressJS via a React application running with Node. Worked in a team of two at Fall Hacks 2023 at SFU.",
-    code: 'https://github.com/makih2003/fresh-start',
-    language: (
-      <span>
-        <em>MongoDB</em> / <em>Express.js</em> /<em>React.js</em> /{' '}
-        <em>Node.js</em>
-      </span>
-    ),
-  },
-  {
     image: messenger,
     title: 'Messenger JavaFX',
     description:
