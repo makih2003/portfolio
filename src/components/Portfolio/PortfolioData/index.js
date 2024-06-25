@@ -9,7 +9,7 @@ const portfolioData = [
     image: messenger,
     title: 'Messenger JavaFX',
     description:
-      'Messenger app built with JavaFX. In the first tab, the user can sign in, log in, and log out. A username and password are required in order to sign in and log in. In the second tab, they can read messages they have received. There are two buttons, one to display unread messages and the other to display all messages. In the third tab, they can send a message by typing it in or default smile message.',
+      'Messenger app built with JavaFX. In the first tab, the user can sign up, log in, and log out. A username and password are required in order to sign up and log in. In the second tab, they can read messages they have received. There are two buttons, one to display unread messages and the other to display all messages. In the third tab, they can send a message by typing it in or default smile message.',
     code: 'https://github.com/makih2003/messenger.git',
     language: <span>JavaFX</span>,
   },
