@@ -24,7 +24,7 @@ const About = () => {
             </span>
             <br />
             CGPA 3.92 / 4.33
-            <br /> September 2023 - August 2026 (Expected)
+            <br /> September 2023 - December 2026 (Expected)
             <br />
             Burnaby, Canada
           </p>
