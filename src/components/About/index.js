@@ -8,9 +8,18 @@ const About = () => {
         <div className="work-experience">
           <h2>Work Experience</h2>
           <p>
+            <span>
+              Software Developer in Test, Co-op | LMI Technologoes
+              <br />
+              September 2024 - Present
+              <br />
+              Burnaby, Canada
+            </span>
+          </p>
+          <p>
             <span>Sales Representative | MC Net Works Japan Ltd.</span>
             <br />
-            2016 - 2018
+            May 2016 - August 2018
             <br />
             Hyogo, Japan
           </p>
@@ -23,7 +32,7 @@ const About = () => {
               <a href="https://www.sfu.ca/">Simon Fraser University</a>
             </span>
             <br />
-            CGPA 3.92 / 4.33
+            CGPA 3.82 / 4.33 & Dean's Honour Roll (Summer, 2024)
             <br /> September 2023 - December 2026 (Expected)
             <br />
             Burnaby, Canada
@@ -37,7 +46,7 @@ const About = () => {
               <br />
               Completed First Year, Earned 40 Credits
               <br />
-              CGPA 4.00 / 4.33 & Dean's Honour Roll
+              CGPA 4.00 / 4.33 & Dean's Honour Roll (Fall, 2022)
             </span>
             <br />
             January 2022 - April 2023
