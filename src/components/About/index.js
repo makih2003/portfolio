@@ -8,13 +8,11 @@ const About = () => {
         <div className="work-experience">
           <h2>Work Experience</h2>
           <p>
-            <span>
-              Software Developer in Test, Co-op | LMI Technologoes
-              <br />
-              September 2024 - Present
-              <br />
-              Burnaby, Canada
-            </span>
+            <span>Software Developer in Test, Co-op | LMI Technologoes</span>
+            <br />
+            September 2024 - Present
+            <br />
+            Burnaby, Canada
           </p>
           <p>
             <span>Sales Representative | MC Net Works Japan Ltd.</span>
