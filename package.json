@@ -20,7 +20,7 @@
     "react-leaflet": "^4.2.1",
     "react-loaders": "^3.0.1",
     "react-router-dom": "^6.15.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^0.0.0",
     "sass": "^1.65.1",
     "web-vitals": "^2.1.4"
   },
@@ -51,6 +51,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   }
 }
