@@ -26,11 +26,12 @@ const About = () => {
           <h2>Education</h2>
           <p>
             <span>
-              Bachelor of Science in Computing Science at{' '}
+              Bachelor of Science in Computing Science & Minor in Statistics at{' '}
               <a href="https://www.sfu.ca/">Simon Fraser University</a>
             </span>
             <br />
-            CGPA 3.82 / 4.33 & Dean's Honour Roll (Summer 2024)
+            CGPA 3.80 / 4.33 & Dean’s Honour Roll - Awarded 3 times (Summer
+            2024, Summer 2025, Fall 2025)
             <br /> September 2023 - December 2026 (Expected)
             <br />
             Burnaby, Canada
